@@ -1,5 +1,7 @@
 $.getJSON("siliconValley.json", function(json) {
-console.log(json);
+  var siliconValley = json;
+  console.log(siliconValley);
   
+  var movieType = siliconValley [2][4];
 });
 
