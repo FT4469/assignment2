@@ -5,5 +5,5 @@ $.getJSON("siliconValley.json", function(json) {
   var scriptedMovie = siliconValley [0];
   console.log(scriptedMovie);
 
-  console.log( scriptedMovie.show[0]."type" );
+  console.log( scriptedMovie.show[0].type );
 } );
