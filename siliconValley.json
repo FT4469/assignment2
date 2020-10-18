@@ -1,7 +1,7 @@
 [
-  {
-    "score": 38.071564,
-    "show": {
+{
+score: 38.071564,
+show: {
 id: 143,
 url: "http://www.tvmaze.com/shows/143/silicon-valley",
 name: "Silicon Valley",
@@ -54,10 +54,10 @@ href: "http://api.tvmaze.com/episodes/1757884"
 }
 }
 }
-  },
-  {
-    score: 30.974186,
-    show: {
+},
+{
+score: 30.974186,
+show: {
 id: 30927,
 url: "http://www.tvmaze.com/shows/30927/secrets-of-silicon-valley",
 name: "Secrets of Silicon Valley",
@@ -108,10 +108,10 @@ href: "http://api.tvmaze.com/episodes/1270896"
 }
 }
 }
-  },
-  {
-    score: 30.64713,
-    show: {
+},
+{
+score: 30.64713,
+show: {
 id: 15643,
 url: "http://www.tvmaze.com/shows/15643/start-ups-silicon-valley",
 name: "Start-ups: Silicon Valley",
@@ -162,59 +162,59 @@ href: "http://api.tvmaze.com/episodes/709486"
 }
 }
 }
-  },
-  {
-    score: 26.674133,
-    show: {
-    id: 34067,
-    url: "http://www.tvmaze.com/shows/34067/silicon-valley-the-untold-story",
-    name: "Silicon Valley: The Untold Story",
-    type: "Documentary",
-    language: "English",
-    genres: [ ],
-    status: "Ended",
-    runtime: 60,
-    premiered: "2018-03-19",
-    officialSite: "https://www.sciencechannel.com/tv-shows/silicon-valley-the-untold-story/",
-    schedule: {
-    time: "20:00",
-    days: [
-    "Sunday"
-    ]
-    },
-    rating: {
-    average: null
-    },
-    weight: 0,
-    network: {
-    id: 77,
-    name: "Science",
-    country: {
-    name: "United States",
-    code: "US",
-    timezone: "America/New_York"
-    }
-    },
-    webChannel: null,
-    externals: {
-    tvrage: null,
-    thetvdb: 344639,
-    imdb: "tt8128854"
-    },
-    image: {
-    medium: "http://static.tvmaze.com/uploads/images/medium_portrait/149/374306.jpg",
-    original: "http://static.tvmaze.com/uploads/images/original_untouched/149/374306.jpg"
-    },
-    summary: "<p>Just south of San Francisco lies a region that has spawned not just new products but whole new industries, from vacuum tubes to radio, microchips to personal computers, mobile devices, apps and social media. Home to Apple and Facebook, Intel and Google, there is simply no other place on earth that can rival its remarkable record of innovation. <b>Silicon Valley: The Untold Story</b> will provide a comprehensive look at the century-and-a-half history of this fascinating place, and reveal how and why it became such a fertile ground for technological breakthroughs.</p>",
-    updated: 1574117456,
-    _links: {
-    self: {
-    href: "http://api.tvmaze.com/shows/34067"
-    },
-    previousepisode: {
-    href: "http://api.tvmaze.com/episodes/1376854"
-    }
-    }
+},
+{
+score: 26.674133,
+show: {
+id: 34067,
+url: "http://www.tvmaze.com/shows/34067/silicon-valley-the-untold-story",
+name: "Silicon Valley: The Untold Story",
+type: "Documentary",
+language: "English",
+genres: [ ],
+status: "Ended",
+runtime: 60,
+premiered: "2018-03-19",
+officialSite: "https://www.sciencechannel.com/tv-shows/silicon-valley-the-untold-story/",
+schedule: {
+time: "20:00",
+days: [
+"Sunday"
+]
+},
+rating: {
+average: null
+},
+weight: 0,
+network: {
+id: 77,
+name: "Science",
+country: {
+name: "United States",
+code: "US",
+timezone: "America/New_York"
 }
-  }
+},
+webChannel: null,
+externals: {
+tvrage: null,
+thetvdb: 344639,
+imdb: "tt8128854"
+},
+image: {
+medium: "http://static.tvmaze.com/uploads/images/medium_portrait/149/374306.jpg",
+original: "http://static.tvmaze.com/uploads/images/original_untouched/149/374306.jpg"
+},
+summary: "<p>Just south of San Francisco lies a region that has spawned not just new products but whole new industries, from vacuum tubes to radio, microchips to personal computers, mobile devices, apps and social media. Home to Apple and Facebook, Intel and Google, there is simply no other place on earth that can rival its remarkable record of innovation. <b>Silicon Valley: The Untold Story</b> will provide a comprehensive look at the century-and-a-half history of this fascinating place, and reveal how and why it became such a fertile ground for technological breakthroughs.</p>",
+updated: 1574117456,
+_links: {
+self: {
+href: "http://api.tvmaze.com/shows/34067"
+},
+previousepisode: {
+href: "http://api.tvmaze.com/episodes/1376854"
+}
+}
+}
+}
 ]
