@@ -1,3 +1,3 @@
-$.getJSON('https://link to your JSON data set', function(json) {
+$.getJSON("siliconValley.json", function(json) {
   console.log(json);
 });
