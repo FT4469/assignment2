@@ -1,9 +1,62 @@
-body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+body{
+  font-family: Roboto, sans-serif;
+  background-color: #F3F3F3;
+  text-align: center;
+  color: #4B4B4B;
 }
 
-h1 {
+h1, h2, h3, h4 {
+  font-family: Roboto, sans-serif;
+  font-size: 3em;
+  padding: 5% 5% 0 5%;
+  margin: auto;
+  color: #02305D;
+  text-align: center;
+  text position: center;
+}
+
+h1{
+  padding: 5%;
+}
+h2{
+  font-size: 2em;
   font-style: italic;
-  color: #373fff;
+  color: #2289EE;
+}
+
+h3{
+  font-size: 1em;
+  text-align: center;
+  vertical-align: middle;
+  padding-bottom: 5%
+}
+
+.source{
+  text-align: right;
+  padding-top: 0;
+  font-family: Ubuntu;
+  font-size: 80%;
+  font-style: italic;
+}
+
+a{
+  text-decoration: none;
+}
+
+.article{
+  font-family: Ubuntu, sans-serif;
+}
+
+.Minor-titles{
+  margin-top: 3em;
+}
+
+img{
+  max-width:100%;
+  margin-top: 10%;
+}
+
+.text-in-2-columns{
+  column-count: 2;
+  column-fill: balance;
 }

@@ -5,5 +5,5 @@ $.getJSON("siliconValley.json", function(json) {
   var scriptedMovie = siliconValley [0];
   console.log(scriptedMovie);
 
-$( "body" ).append( "<h1>" + scriptedMovie.score[ 0 ] + "</h1>" );
+  console.log( scriptedMovie.show[0]."type" );
 } );
